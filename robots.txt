@@ -1,1 +1,1 @@
-Sitemap: datawhispering.net/sitemap.xml
+Sitemap: http://datawhispering.net/sitemap.xml
