@@ -1,72 +1,72 @@
 
 var documents = [{
     "id": 0,
-    "url": "http://localhost:4000/404.html",
+    "url": "datawhispering.net/404.html",
     "title": "404",
     "body": "404 Page does not exist!Please use the search bar at the top or visit our homepage! "
     }, {
     "id": 1,
-    "url": "http://localhost:4000/about",
+    "url": "datawhispering.net/about",
     "title": "Lakeida Sprenkle",
     "body": "About Me? Skillsskills list "
     }, {
     "id": 2,
-    "url": "http://localhost:4000/categories",
+    "url": "datawhispering.net/categories",
     "title": "Categories",
     "body": ""
     }, {
     "id": 3,
-    "url": "http://localhost:4000/",
+    "url": "datawhispering.net/",
     "title": "Home",
     "body": "      Featured:                                                                                                                                                                                                           Could more Peace bring more Popularity?                              :               Are people in favor of leaving the EU, opposed to changing 007?:                                                                      10 Feb 2020                                                                                                                             Makeover Monday                                                                                                                                                                                                                                                                                                                                                                    Brexit 007, in favor of change or more control?                              :               Are people in favor of leaving the EU, opposed to changing 007? This week’s Makeover Monday challenge. :                                                                      03 Feb 2020                                                                                                                             Makeover Monday                                                                                                                                                                                                            All Posts:                                                                                                     Could more Peace bring more Popularity?              :       Are people in favor of leaving the EU, opposed to changing 007?:                              10 Feb 2020                                                                     Makeover Monday                                                                                                                                                              Brexit 007, in favor of change or more control?              :       Are people in favor of leaving the EU, opposed to changing 007? This week’s Makeover Monday challenge. :                              03 Feb 2020                                                                     Makeover Monday                                                                                                                                                              Bridges Per Capita              :       2018, 2019, 2020 Bridges To Prosperity:                              27 Jan 2020                                                                     Makeover Monday                                                                                                                                                              Do as I do and as I Say              :       Since 2008 our children’s diet, on average, has been consistently higher in free sugars than adults. :                              20 Jan 2020                                                                     Makeover Monday                                                                                                                                                              Pesticides used in USA              :       I know that we have this hate, hate relationship with pie charts. But I honestly believe that they have their special use case. Like when you really want to send. . . :                              13 Jan 2020                                                                     Makeover Monday                                                                                                                                                              Outdoor sports maintain a steady lead over indoor sports              :       Sports. Well…:                              06 Jan 2020                                                                     Makeover Monday                                                                         &laquo; Prev       1        2      Next &raquo; "
     }, {
     "id": 4,
-    "url": "http://localhost:4000/robots.txt",
+    "url": "datawhispering.net/robots.txt",
     "title": "",
     "body": "      Sitemap: {{ “sitemap. xml”   absolute_url }}   "
     }, {
     "id": 5,
-    "url": "http://localhost:4000/posts/page2/",
+    "url": "datawhispering.net/posts/page2/",
     "title": "Home",
     "body": "{% if page. url == “/” %}       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 6,
-    "url": "http://localhost:4000/posts/makeover-monday-2020-week-06/",
+    "url": "datawhispering.net/posts/makeover-monday-2020-week-06/",
     "title": "Could more Peace bring more Popularity?",
     "body": "2020/02/10 - Are people in favor of leaving the EU, opposed to changing 007? "
     }, {
     "id": 7,
-    "url": "http://localhost:4000/posts/makeover-monday-2020-week-05/",
+    "url": "datawhispering.net/posts/makeover-monday-2020-week-05/",
     "title": "Brexit 007, in favor of change or more control?",
     "body": "2020/02/03 - Are people in favor of leaving the EU, opposed to changing 007? This week’s Makeover Monday challenge. "
     }, {
     "id": 8,
-    "url": "http://localhost:4000/posts/makeover-monday-2020-week-04/",
+    "url": "datawhispering.net/posts/makeover-monday-2020-week-04/",
     "title": "Bridges Per Capita",
     "body": "2020/01/27 - 2018, 2019, 2020 Bridges To Prosperity "
     }, {
     "id": 9,
-    "url": "http://localhost:4000/posts/makeover-monday-2020-week-03/",
+    "url": "datawhispering.net/posts/makeover-monday-2020-week-03/",
     "title": "Do as I do and as I Say",
     "body": "2020/01/20 - Since 2008 our children’s diet, on average, has been consistently higher in free sugars than adults. We need to take charge of our children’s diet. "
     }, {
     "id": 10,
-    "url": "http://localhost:4000/posts/makeover-monday-2020-week-02/",
+    "url": "datawhispering.net/posts/makeover-monday-2020-week-02/",
     "title": "Pesticides used in USA",
     "body": "2020/01/13 - I know that we have this hate, hate relationship with pie charts.  But I honestly believe that they have their special use case.  Like when you really want to send the message of just how much a data point is weighted against another. When compared to pesticides that all 3 countries have banned, the USA is painted in a brighter light. "
     }, {
     "id": 11,
-    "url": "http://localhost:4000/posts/makeover-monday-2020-week-01/",
+    "url": "datawhispering.net/posts/makeover-monday-2020-week-01/",
     "title": "Outdoor sports maintain a steady lead over indoor sports",
     "body": "2020/01/06 - Sports. Well… The votes are in Americans love Outdoor Sports.  I struggled with this weeks Makeover Monday dataset (2020 Week 1).  I am not a big sports fan and did not feel motivated to study the data.  I tried to imagine that the data represented something else. Don’t laugh, it almost worked.  IN the end I just buckled down and started looking for patterns.  I started to wonder if there might be one when similar sports are grouped. And eureka, that was it.  It got a little hard to clearly define a sports one way or the other. So I took the approach of, “at the national level, when televised”, where is it usually played, indoors, outdoors, or both? Then I noted that in the visual so anyone studying the data would be aware of any assumptions I had made. "
     }, {
     "id": 12,
-    "url": "http://localhost:4000/posts/makeover-monday-2019-week-53/",
+    "url": "datawhispering.net/posts/makeover-monday-2019-week-53/",
     "title": "Why is participation at it's lowest in the first week of every month",
     "body": "2019/12/30 - I only just discovered Makeover_Monday and was planning to start with the new year.  However I found this last dataset of 2019 just too interesting to pass up.  What stood out to me right away was the pattern of a dip in downloads every 3-4 weeks.  A closer look revealed that it coincides with the first week of each month. Why? I can only speak from my own experience, but the beginning of the month can be a very busy time for me, with month end reporting due.  Possibly this is the case for others. Knowing the trend, I am more determined than ever to make sure I make time to participate during the first week of each month. Downloads increase by 2x, after the first week. "
     }, {
     "id": 13,
-    "url": "http://localhost:4000/posts/makeover-monday-submissions/",
+    "url": "datawhispering.net/posts/makeover-monday-submissions/",
     "title": "2020 Makeover Monday Participation",
     "body": "2019/12/01 - I’ve set out to complete all 52 weeks this year.  Ambitious for my first year I know, but I am determined to learn and grow my skills. "
     }];
