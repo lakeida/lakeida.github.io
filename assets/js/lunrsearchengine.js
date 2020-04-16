@@ -8,7 +8,7 @@ var documents = [{
     "id": 1,
     "url": "http://localhost:4000/about",
     "title": "Lakeida Sprenkle",
-    "body": "About Me? Documentation: Please, read the docs here. Questions or bug reports?: Head over to our Github repository! Skillslist "
+    "body": "About Me? Skillsskills list "
     }, {
     "id": 2,
     "url": "http://localhost:4000/categories",
