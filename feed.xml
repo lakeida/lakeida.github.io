@@ -3,10 +3,10 @@
   <channel>
     <title>Lakeida Sprenkle</title>
     <description>My responses are unlimited, you must first ask the right questions.</description>
-    <link>http://datawhispering.net/</link>
-    <atom:link href="http://datawhispering.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 16 Apr 2020 21:49:30 -0400</pubDate>
-    <lastBuildDate>Thu, 16 Apr 2020 21:49:30 -0400</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 16 Apr 2020 22:28:28 -0400</pubDate>
+    <lastBuildDate>Thu, 16 Apr 2020 22:28:28 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -16,8 +16,8 @@
 &lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://app.powerbi.com/view?r=eyJrIjoiZjFmN2M4YWMtNTM0NC00YWQ5LThkNzQtYTg2MzcwOTI4YzNkIiwidCI6IjFjNjkwYTIxLTBkNjQtNGY2MS1iYWY5LWI4NTNlMzA3NmQ2ZSIsImMiOjN9&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Mon, 10 Feb 2020 00:00:00 -0500</pubDate>
-        <link>http://datawhispering.net/posts/makeover-monday-2020-week-06/</link>
-        <guid isPermaLink="true">http://datawhispering.net/posts/makeover-monday-2020-week-06/</guid>
+        <link>http://localhost:4000/posts/makeover-monday-2020-week-06/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/makeover-monday-2020-week-06/</guid>
         
         <category>Political</category>
         
@@ -35,8 +35,8 @@
 &lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://app.powerbi.com/view?r=eyJrIjoiZjFmN2M4YWMtNTM0NC00YWQ5LThkNzQtYTg2MzcwOTI4YzNkIiwidCI6IjFjNjkwYTIxLTBkNjQtNGY2MS1iYWY5LWI4NTNlMzA3NmQ2ZSIsImMiOjN9&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Mon, 03 Feb 2020 00:00:00 -0500</pubDate>
-        <link>http://datawhispering.net/posts/makeover-monday-2020-week-05/</link>
-        <guid isPermaLink="true">http://datawhispering.net/posts/makeover-monday-2020-week-05/</guid>
+        <link>http://localhost:4000/posts/makeover-monday-2020-week-05/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/makeover-monday-2020-week-05/</guid>
         
         <category>Political</category>
         
@@ -54,8 +54,8 @@
 &lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://app.powerbi.com/view?r=eyJrIjoiYmZlN2Q1MjYtMzgxMy00ODIzLTg5ZWEtMTc0NTAwNjFhNjBiIiwidCI6IjFjNjkwYTIxLTBkNjQtNGY2MS1iYWY5LWI4NTNlMzA3NmQ2ZSIsImMiOjN9&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Mon, 27 Jan 2020 00:00:00 -0500</pubDate>
-        <link>http://datawhispering.net/posts/makeover-monday-2020-week-04/</link>
-        <guid isPermaLink="true">http://datawhispering.net/posts/makeover-monday-2020-week-04/</guid>
+        <link>http://localhost:4000/posts/makeover-monday-2020-week-04/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/makeover-monday-2020-week-04/</guid>
         
         <category>Agriculture</category>
         
@@ -74,8 +74,8 @@
 &lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://app.powerbi.com/view?r=eyJrIjoiNzAxZDY2ZmYtNjU0Ni00YWNlLWI3M2QtZDUxNDljNGU4YmZmIiwidCI6IjFjNjkwYTIxLTBkNjQtNGY2MS1iYWY5LWI4NTNlMzA3NmQ2ZSIsImMiOjN9&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Mon, 20 Jan 2020 00:00:00 -0500</pubDate>
-        <link>http://datawhispering.net/posts/makeover-monday-2020-week-03/</link>
-        <guid isPermaLink="true">http://datawhispering.net/posts/makeover-monday-2020-week-03/</guid>
+        <link>http://localhost:4000/posts/makeover-monday-2020-week-03/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/makeover-monday-2020-week-03/</guid>
         
         <category>Food</category>
         
@@ -94,8 +94,8 @@
 &lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://app.powerbi.com/view?r=eyJrIjoiYmFiMTRiZjMtM2JmMS00M2M2LTlkMGYtODVmN2I2NzkyMmIyIiwidCI6IjFjNjkwYTIxLTBkNjQtNGY2MS1iYWY5LWI4NTNlMzA3NmQ2ZSIsImMiOjN9&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Mon, 13 Jan 2020 00:00:00 -0500</pubDate>
-        <link>http://datawhispering.net/posts/makeover-monday-2020-week-02/</link>
-        <guid isPermaLink="true">http://datawhispering.net/posts/makeover-monday-2020-week-02/</guid>
+        <link>http://localhost:4000/posts/makeover-monday-2020-week-02/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/makeover-monday-2020-week-02/</guid>
         
         <category>Agriculture</category>
         
@@ -117,8 +117,8 @@
 &lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://app.powerbi.com/view?r=eyJrIjoiMjhlNWYwNjgtMjgwZS00OGJiLWJlNzEtYjBlNWYwZThkZTMwIiwidCI6IjFjNjkwYTIxLTBkNjQtNGY2MS1iYWY5LWI4NTNlMzA3NmQ2ZSIsImMiOjN9&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Mon, 06 Jan 2020 00:00:00 -0500</pubDate>
-        <link>http://datawhispering.net/posts/makeover-monday-2020-week-01/</link>
-        <guid isPermaLink="true">http://datawhispering.net/posts/makeover-monday-2020-week-01/</guid>
+        <link>http://localhost:4000/posts/makeover-monday-2020-week-01/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/makeover-monday-2020-week-01/</guid>
         
         <category>Sports</category>
         
@@ -139,8 +139,8 @@
 &lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://app.powerbi.com/view?r=eyJrIjoiZWU2YjUyNTUtZTMxZi00NDE3LWEyYzctYzExYmI1MzYzMGExIiwidCI6IjFjNjkwYTIxLTBkNjQtNGY2MS1iYWY5LWI4NTNlMzA3NmQ2ZSIsImMiOjN9&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Mon, 30 Dec 2019 00:00:00 -0500</pubDate>
-        <link>http://datawhispering.net/posts/makeover-monday-2019-week-53/</link>
-        <guid isPermaLink="true">http://datawhispering.net/posts/makeover-monday-2019-week-53/</guid>
+        <link>http://localhost:4000/posts/makeover-monday-2019-week-53/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/makeover-monday-2019-week-53/</guid>
         
         <category>Participation</category>
         
@@ -154,8 +154,8 @@
         <description>&lt;p&gt;I’ve set out to complete all 52 weeks this year.  Ambitious for my first year I know, but I am determined to learn and grow my skills.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Dec 2019 00:00:00 -0500</pubDate>
-        <link>http://datawhispering.net/posts/makeover-monday-submissions/</link>
-        <guid isPermaLink="true">http://datawhispering.net/posts/makeover-monday-submissions/</guid>
+        <link>http://localhost:4000/posts/makeover-monday-submissions/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/makeover-monday-submissions/</guid>
         
         
         <category>Makeover Monday</category>
