@@ -5,15 +5,34 @@
     <description>My responses are unlimited, you must first ask the right questions.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 16 Apr 2020 22:28:28 -0400</pubDate>
-    <lastBuildDate>Thu, 16 Apr 2020 22:28:28 -0400</lastBuildDate>
+    <pubDate>Mon, 05 Oct 2020 20:27:13 -0400</pubDate>
+    <lastBuildDate>Mon, 05 Oct 2020 20:27:13 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Could more Peace bring more Popularity?</title>
-        <description>&lt;p&gt;Are people in favor of leaving the EU, opposed to changing 007?&lt;/p&gt;
+        <title>Scheduled Refresh Can Disable Itself?</title>
+        <description>&lt;p&gt;Whut… #skynet, #selfaware… Just stumbled upon a helpful tidbit of information. You all probably know this, but I must have been absent on that day when they covered it in class, lol.&lt;/p&gt;
 
-&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://app.powerbi.com/view?r=eyJrIjoiZjFmN2M4YWMtNTM0NC00YWQ5LThkNzQtYTg2MzcwOTI4YzNkIiwidCI6IjFjNjkwYTIxLTBkNjQtNGY2MS1iYWY5LWI4NTNlMzA3NmQ2ZSIsImMiOjN9&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;Scheduled Refresh will turn off automatically after 4 consecutive refresh failures. So if anyone was like me and was puzzeled why one of their schedules was disabled, this might be the culprit.&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;&lt;a href=&quot;https://docs.microsoft.com/en-us/power-bi/refresh-troubleshooting-refresh-scenarios&quot; title=&quot;https://docs.microsoft.com/en-us/power-bi/refresh-troubleshooting-refresh-scenarios&quot;&gt;https://docs.microsoft.com/en-us/power-bi/refresh-troubleshooting-refresh-scenarios&lt;/a&gt;&amp;gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 19 Apr 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/posts/scheduled-refresh-can-disable-itself/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/scheduled-refresh-can-disable-itself/</guid>
+        
+        <category>TIL</category>
+        
+        
+        <category>PowerBI</category>
+        
+      </item>
+    
+      <item>
+        <title>Could more Peace bring more Popularity?</title>
+        <description>&lt;p&gt;Could Peace bring a higher popularity for the U.S.?&lt;/p&gt;
+
+&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://app.powerbi.com/view?r=eyJrIjoiODE3YmYyMGQtNGFkYS00MWE1LTk4OGYtNmJmOGI5ODU0YWUzIiwidCI6IjFjNjkwYTIxLTBkNjQtNGY2MS1iYWY5LWI4NTNlMzA3NmQ2ZSIsImMiOjN9&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Mon, 10 Feb 2020 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/posts/makeover-monday-2020-week-06/</link>
@@ -88,10 +107,12 @@
     
       <item>
         <title>Pesticides used in USA</title>
-        <description>&lt;p&gt;I know that we have this hate, hate relationship with pie charts.  But I honestly believe that they have their special use case.  Like when you really want to send the message of just how much a data point is weighted against another.&lt;/p&gt;
+        <description>&lt;p&gt;I know that we have this hate, hate relationship with pie charts.  But I honestly believe that they have their special use case.  Like when you really want to send the message of just how much a data point is weighted against another. In those special cases where it’s a clear difference in percentage.&lt;/p&gt;
 
 &lt;p&gt;When compared to pesticides that all 3 countries have banned, the USA is painted in a brighter light.&lt;/p&gt;
 &lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://app.powerbi.com/view?r=eyJrIjoiYmFiMTRiZjMtM2JmMS00M2M2LTlkMGYtODVmN2I2NzkyMmIyIiwidCI6IjFjNjkwYTIxLTBkNjQtNGY2MS1iYWY5LWI4NTNlMzA3NmQ2ZSIsImMiOjN9&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;This is for Makeover Monday 2020 Week 2.&lt;/p&gt;
 </description>
         <pubDate>Mon, 13 Jan 2020 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/posts/makeover-monday-2020-week-02/</link>

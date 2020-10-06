@@ -347,7 +347,6 @@ blockquote {
 
 .featured-image {
     display: block;
-    margin-bottom: 1.5rem;
 }
 
 .share {
@@ -895,4 +894,22 @@ iframe {
 .lazyimg[data-srcset] {
     opacity: 0;
     transition: opacity .25s;
+}
+
+figure {
+     position: relative;
+     margin-bottom: 1.5rem;
+}
+figure img {
+    display: block;
+}
+figcaption {
+    background: rgba(0, 0, 0, 0.5);
+    color: #FFF;
+    font-size: small;
+    font-style: italic;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
 }
