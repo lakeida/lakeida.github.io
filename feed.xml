@@ -5,8 +5,8 @@
     <description>My responses are unlimited, you must first ask the right questions.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 17 Oct 2020 18:27:49 -0400</pubDate>
-    <lastBuildDate>Sat, 17 Oct 2020 18:27:49 -0400</lastBuildDate>
+    <pubDate>Sat, 17 Oct 2020 18:56:56 -0400</pubDate>
+    <lastBuildDate>Sat, 17 Oct 2020 18:56:56 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -110,9 +110,19 @@
     
       <item>
         <title>Bridges Per Capita</title>
-        <description>&lt;p&gt;2018, 2019, 2020 Bridges To Prosperity&lt;/p&gt;
+        <description>&lt;p&gt;Rural isolation is a root cause of poverty; connection it the foundation for opportunity.
+&lt;a href=&quot;https://www.bridgestoprosperity.org/&quot;&gt; Bridges to Prosperity&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Bridges to Prosperity envisions a world where poverty caused by rural isolation no longer exists. Rural isolation is a root cause of poverty, and we believe that connection is the foundation to opportunity. We work with local communities, partners and foundations, to build footbridges that connect residents to education, health care and economic opportunity. With a sophisticated data collection and evaluation program, we’re able to prove that the value and impact of our work is sustained long after the opening celebration.&lt;/p&gt;
 
 &lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://app.powerbi.com/view?r=eyJrIjoiYmZlN2Q1MjYtMzgxMy00ODIzLTg5ZWEtMTc0NTAwNjFhNjBiIiwidCI6IjFjNjkwYTIxLTBkNjQtNGY2MS1iYWY5LWI4NTNlMzA3NmQ2ZSIsImMiOjN9&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;
+ &lt;small&gt;
+ &lt;span&gt;Photo by &lt;a href=&quot;https://unsplash.com/@andreamaraldg?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Andre A. Xavier&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/s/photos/bridge?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/span&gt;
+ &lt;/small&gt;
+ &lt;/p&gt;
 </description>
         <pubDate>Mon, 27 Jan 2020 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/posts/makeover-monday-2020-week-04/</link>
@@ -129,10 +139,18 @@
     
       <item>
         <title>Do as I do and as I Say</title>
-        <description>&lt;p&gt;Since 2008 our children’s diet, on average, has been consistently higher in free sugars than adults.&lt;/p&gt;
+        <description>&lt;p&gt;We need to take charge of our children’s diet. Since 2008 our children’s diet, on average, has been consistently higher in free sugars than adults.&lt;/p&gt;
 
-&lt;p&gt;We need to take charge of our children’s diet.&lt;/p&gt;
+&lt;p&gt;Kids ages 2-18 should have less than 25 grams or 6 teaspoons of added sugar daily for a healthy heart. &lt;a href=&quot;https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/sugar-recommendation-healthy-kids-and-teens-infographic&quot;&gt;Heart.org&lt;/a&gt;&lt;/p&gt;
+
 &lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://app.powerbi.com/view?r=eyJrIjoiNzAxZDY2ZmYtNjU0Ni00YWNlLWI3M2QtZDUxNDljNGU4YmZmIiwidCI6IjFjNjkwYTIxLTBkNjQtNGY2MS1iYWY5LWI4NTNlMzA3NmQ2ZSIsImMiOjN9&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;small&gt;
+&lt;span&gt;Photo by &lt;a href=&quot;https://unsplash.com/@huguesdb?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Hugues de BUYER-MIMEURE&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/s/photos/follow-me?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/span&gt;
+&lt;/small&gt;
+&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Jan 2020 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/posts/makeover-monday-2020-week-03/</link>
