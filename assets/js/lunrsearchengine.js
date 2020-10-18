@@ -8,7 +8,7 @@ var documents = [{
     "id": 1,
     "url": "http://localhost:4000/about",
     "title": "About",
-    "body": "  Hi, I'm Lakeida Sprenkle.  Lovingly nicknamed, The DataWhisperer by my colleauges. Born and raised a cali girl, but currently calling Michigan home.     Blogs                                                                                         "
+    "body": "  Hi, I'm Lakeida Sprenkle.  Lovingly nicknamed, The DataWhisperer by my colleagues. Born and raised a cali girl, but currently calling Michigan home.     Blogs                                                                                         "
     }, {
     "id": 2,
     "url": "http://localhost:4000/categories",
