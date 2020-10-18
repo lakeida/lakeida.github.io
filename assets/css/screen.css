@@ -918,6 +918,6 @@ figcaption {
     right: 0;
 }
 
-ul {
+ ul.nobullets {
   list-style: none; /* Remove default bullets */
 }
