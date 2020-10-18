@@ -5,8 +5,8 @@
     <description>My responses are unlimited, you must first ask the right questions.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 Oct 2020 16:51:44 -0400</pubDate>
-    <lastBuildDate>Sun, 18 Oct 2020 16:51:44 -0400</lastBuildDate>
+    <pubDate>Sun, 18 Oct 2020 18:03:14 -0400</pubDate>
+    <lastBuildDate>Sun, 18 Oct 2020 18:03:14 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -18,9 +18,37 @@
   &lt;/ul&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;So I started to design and online version of my resume but realized that I was just recreating what is already available on LinkedIn. [insert LinkedIn profile link], and with more detail than my one page hard copy version i created [link to download resume here].&lt;/p&gt;
+&lt;p&gt;So I started to design and online version of my resume but realized that I was just recreating what is already available on  &lt;a href=&quot;https://www.linkedin.com/in/lakeida-sprenkle-6ab7b12a/&quot;&gt;LinkedIn&lt;/a&gt;, and with more detail than my one page hard copy version, which I can just make available for download &lt;a href=&quot;/assets/docs/Lakeida_Sprenkle_BI_Engineer.docx&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;So instead I decided to not only create an Interactive version, but to document the process here, nothing like some good old fashion public learning and sharing to get the juices flowing.&lt;/p&gt;
+
+&lt;p&gt;The idea behind this little exercise, is to see if I can treat this like I would any other project.&lt;/p&gt;
+
+&lt;p&gt;First Step is Exploratory / Requirements gathering session with the stakeholder(s):&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Lakeida (BI Engineer) - “What is it that you want do?”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Lakeida (Stakeholder) - “I want to create an Interactive version of my resume.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Lakeida (BI Engineer) - “Why?”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;okay just kidding, i’m not going type out the entire interview session I had with myself, and risk getting more side-eye looks like the ones I got from the other coffee shop patrons, during this interview. I’ll spare you the details and get to the outcome&lt;/em&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Project Goal: Create an interactive resume that allows potential employers to quickly access my expertise level and years of professional experience across each of my skills, while also acting as a showcase.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;small&gt;&lt;span&gt;Cover Photo by &lt;a href=&quot;https://unsplash.com/@landb?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Branko Stancevic&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/s/photos/skills?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/span&gt;
+&lt;/small&gt;
+&lt;/p&gt;
 </description>
         <pubDate>Sun, 18 Oct 2020 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/posts/Resume-Project/</link>
