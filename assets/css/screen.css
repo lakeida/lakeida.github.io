@@ -917,3 +917,7 @@ figcaption {
     left: 0;
     right: 0;
 }
+
+ul {
+  list-style: none; /* Remove default bullets */
+}
