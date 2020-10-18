@@ -922,18 +922,8 @@ figcaption {
   list-style: none; /* Remove default bullets */
 }
 
-body {
-  font-family: 'Lato', sans-serif;
-  color: #515151;
-  background-color: #fbfbfb;
-  margin: 0;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-
 .project-box {
-    background-color: #fbfbfb;
+  background-color: #fbfbfb;
   padding: 20px;
   padding-left: 260px;
   display: -webkit-box;
