@@ -8,7 +8,7 @@ var documents = [{
     "id": 1,
     "url": "http://localhost:4000/about",
     "title": "About",
-    "body": "  Who I am   What I love   What I'm Reading   What I'm Watching                                Makeover Monday                                Microsoft Power BI Blog                    How to find me     Skills   "
+    "body": "  Hi, I'm Lakeida Sprenkle.  Lovingly nicknamed, The DataWhisperer by my colleauges. Born and raised a cali girl, but currently calling Michigan home.     Blogs                                                                                         "
     }, {
     "id": 2,
     "url": "http://localhost:4000/categories",
