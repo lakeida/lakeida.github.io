@@ -5,8 +5,8 @@
     <description>My responses are unlimited, you must first ask the right questions.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 Oct 2020 18:03:14 -0400</pubDate>
-    <lastBuildDate>Sun, 18 Oct 2020 18:03:14 -0400</lastBuildDate>
+    <pubDate>Sun, 18 Oct 2020 18:43:44 -0400</pubDate>
+    <lastBuildDate>Sun, 18 Oct 2020 18:43:44 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -225,6 +225,9 @@
 &lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://app.powerbi.com/view?r=eyJrIjoiYmFiMTRiZjMtM2JmMS00M2M2LTlkMGYtODVmN2I2NzkyMmIyIiwidCI6IjFjNjkwYTIxLTBkNjQtNGY2MS1iYWY5LWI4NTNlMzA3NmQ2ZSIsImMiOjN9&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;This is for Makeover Monday 2020 Week 2.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;&lt;span&gt;Cover Photo by &lt;a href=&quot;https://unsplash.com/@markusspiske?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Markus Spiske&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/s/photos/crops?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/span&gt;&lt;/small&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 13 Jan 2020 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/posts/makeover-monday-2020-week-02/</link>
@@ -248,6 +251,12 @@
 &lt;p&gt;And eureka, that was it.  It got a little hard to clearly define a sports one way or the other. So I took the approach of, “at the national level, when televised”, where is it usually played, indoors, outdoors, or both?  Then I noted that in the visual so anyone studying the data would be aware of any assumptions I had made.&lt;/p&gt;
 
 &lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://app.powerbi.com/view?r=eyJrIjoiMjhlNWYwNjgtMjgwZS00OGJiLWJlNzEtYjBlNWYwZThkZTMwIiwidCI6IjFjNjkwYTIxLTBkNjQtNGY2MS1iYWY5LWI4NTNlMzA3NmQ2ZSIsImMiOjN9&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;small&gt;
+&lt;span&gt;Cover Photo by &lt;a href=&quot;https://unsplash.com/@josiahday?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Josiah Day&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/s/photos/sports?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/span&gt;
+&lt;/small&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 06 Jan 2020 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/posts/makeover-monday-2020-week-01/</link>
@@ -270,6 +279,13 @@
 
 &lt;p&gt;Downloads increase by 2x, after the first week.&lt;/p&gt;
 &lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://app.powerbi.com/view?r=eyJrIjoiZWU2YjUyNTUtZTMxZi00NDE3LWEyYzctYzExYmI1MzYzMGExIiwidCI6IjFjNjkwYTIxLTBkNjQtNGY2MS1iYWY5LWI4NTNlMzA3NmQ2ZSIsImMiOjN9&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;small&gt;
+&lt;span&gt;Photo by &lt;a href=&quot;https://unsplash.com/@esteejanssens?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Estée Janssens&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/s/photos/calendar?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/span&gt;
+&lt;/small&gt;
+&lt;/p&gt;
 </description>
         <pubDate>Mon, 30 Dec 2019 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/posts/makeover-monday-2019-week-53/</link>
