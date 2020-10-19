@@ -63,13 +63,13 @@
 <loc>http://localhost:4000/category/makeover-monday/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/category/powerbi/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/category/resume/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/category/visualization/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/project/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/posts/page2/</loc>
