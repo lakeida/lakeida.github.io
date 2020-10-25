@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lakeida Sprenkle</title>
-    <description>My responses are unlimited, you must first ask the right questions.</description>
+    <description>I solve data problems and help business stakeholders get the answers they need. A Data Professional with a software engineering background and a passion for data science.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Oct 2020 07:05:49 -0400</pubDate>
-    <lastBuildDate>Wed, 21 Oct 2020 07:05:49 -0400</lastBuildDate>
+    <pubDate>Sat, 24 Oct 2020 12:04:08 -0400</pubDate>
+    <lastBuildDate>Sat, 24 Oct 2020 12:04:08 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
