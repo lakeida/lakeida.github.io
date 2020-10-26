@@ -5,65 +5,45 @@
     <description>I solve data problems and help business stakeholders get the answers they need. A Data Professional with a software engineering background and a passion for data science.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 24 Oct 2020 12:04:08 -0400</pubDate>
-    <lastBuildDate>Sat, 24 Oct 2020 12:04:08 -0400</lastBuildDate>
+    <pubDate>Sun, 25 Oct 2020 23:12:39 -0400</pubDate>
+    <lastBuildDate>Sun, 25 Oct 2020 23:12:39 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Interactive Resume</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;He who represents himself has a fool for a client&lt;/p&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Abraham Lincoln&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/blockquote&gt;
+        <title>Jupyter Notebooks</title>
+        <description>&lt;p&gt;This past Saturday I attended my first &lt;a href=&quot;https://www.sqlsaturday.com/&quot;&gt;SQLSaturday&lt;/a&gt; event, hosted by the Portland, Oregon chapter.  Which also happened to be their first virtual SQLSaturday.&lt;/p&gt;
 
-&lt;p&gt;So I started to design and online version of my resume but realized that I was just recreating what is already available on  &lt;a href=&quot;https://www.linkedin.com/in/lakeida-sprenkle-6ab7b12a/&quot;&gt;LinkedIn&lt;/a&gt;, and with more detail than my one page hardcopy version, which I can just make available for download &lt;a href=&quot;/assets/docs/Lakeida_Sprenkle_BI_Engineer.docx&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Lots of wonderful presentations, across many topics, but one topic in particular really resonated with me.&lt;/p&gt;
 
-&lt;p&gt;So instead I decided to not only create an Interactive version, but to document the process here, nothing like some good old fashion public learning and sharing to get the juices flowing.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.sqlsaturday.com/1000/Sessions/Details/sid/105725&quot;&gt;Notebooks 101 for SQL People&lt;/a&gt; Speaker: &lt;a href=&quot;https://www.sqlsaturday.com/1000/Speakers/Details/name/julie-koesmarno/spid/401&quot;&gt;Julie Koesmarno&lt;/a&gt;.&lt;br /&gt;
+Are you a database developer, a DBA or a data analyst? Do you find spending quite a bit of time trying to reproduce analysis or reproduce issues and the troubleshooting techniques? This Notebooks 101 session is for you!&lt;/p&gt;
 
-&lt;p&gt;The idea behind this little exercise, is to see if I can treat this like I would any other project.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.sqlsaturday.com/1000/Sessions/Details/sid/107611&quot;&gt;Jupyter Notebooks for DBAs&lt;/a&gt; Speaker: &lt;a href=&quot;https://www.sqlsaturday.com/1000/Speakers/Details/name/rob-sewell/spid/2834&quot;&gt;Rob Sewell&lt;/a&gt;.&lt;br /&gt;
+Jupyter Notebooks were once the realm of Data Scientists. New releases of Azure Data Studio, Visual Studio Code, and .NET interactive tooling have brought this tooling into the Operational team’s area. The biggest benefit of using Jupyter Notebooks is that you have your documentation, your code &lt;strong&gt;and&lt;/strong&gt; your results in the same source controllable document.&lt;/p&gt;
 
-&lt;p&gt;First step is an Exploratory / Requirements gathering session with the stakeholder(s):&lt;/p&gt;
+&lt;p&gt;Currently I use &lt;a href=&quot;https://happenapps.com/&quot;&gt;Quiver&lt;/a&gt; to store my snippets and documentation on troubleshooting or adhoc queries. Prior to this, I was using apps like OneNote and Evernote.  Quiver has the same concept of cell blocks that you can add to the document. You can set the programming language on the code cells and it will provide syntax highlighting.  But what Quiver doesn’t have is actual code execution and a result snapshot.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Lakeida (BI Engineer) - “So, what is it that you want do?”&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;These two presentations triggered a lightbulb above my head, with ideas for notebooks flying around it, like birds swarming around a dizzy character’s head in cartoons.  This is not the first time I heard of Jupyter Notebooks, but having been the only SQL person in my company, since I started more than 7yrs ago, I only thought they were good for sharing scripts with the team.  And as a team of 1, didn’t see much point in it.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Lakeida (Stakeholder) - “I want to create an Interactive version of my resume.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Lakeida (BI Engineer) - “Why?”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;em&gt;okay just kidding, i’m not going to type out the entire interview session I had with myself, and risk getting more side-eye looks like the ones I got from the other coffee shop patrons, during this interview. I’ll spare you the details and get to the outcome&lt;/em&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Project Goal: Create an interactive resume that allows potential employers to quickly assess my expertise level and years of professional experience across each of my skills, while also acting as a showcase.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Can’t wait to start converting my notes!&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;
-&lt;small&gt;&lt;span&gt;Cover Photo by &lt;a href=&quot;https://unsplash.com/@landb?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Branko Stancevic&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/s/photos/skills?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/span&gt;
+&lt;small&gt;
+&lt;span&gt;Cover Photo by &lt;a href=&quot;https://unsplash.com/@fra99?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Francesca Tirico&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/s/photos/notebook?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/span&gt;
 &lt;/small&gt;
 &lt;/p&gt;
 </description>
-        <pubDate>Sun, 18 Oct 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/posts/Resume-Project/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/Resume-Project/</guid>
+        <pubDate>Sun, 25 Oct 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/posts/jupyter-notebooks/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/jupyter-notebooks/</guid>
         
-        <category>PowerBI</category>
+        <category>SQL</category>
         
-        <category>Google Sheets</category>
+        <category>Jupyter</category>
         
         
-        <category>Resume</category>
-        
-        <category>Visualization</category>
-        
-        <category>Project</category>
+        <category>SQLSaturday</category>
         
       </item>
     
