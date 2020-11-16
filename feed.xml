@@ -5,8 +5,8 @@
     <description>I solve data problems and help business stakeholders get the answers they need. A Data Professional with a software engineering background and a passion for data science.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 15 Nov 2020 21:08:53 -0500</pubDate>
-    <lastBuildDate>Sun, 15 Nov 2020 21:08:53 -0500</lastBuildDate>
+    <pubDate>Sun, 15 Nov 2020 21:14:37 -0500</pubDate>
+    <lastBuildDate>Sun, 15 Nov 2020 21:14:37 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -36,7 +36,7 @@
 &lt;/small&gt;
 &lt;/p&gt;
 </description>
-        <pubDate>Sat, 14 Nov 2020 00:00:00 -0500</pubDate>
+        <pubDate>Sun, 15 Nov 2020 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/posts/boring-with-highlights/</link>
         <guid isPermaLink="true">http://localhost:4000/posts/boring-with-highlights/</guid>
         
@@ -44,8 +44,8 @@
         
         <category>Dashboards</category>
         
-        <category>Workshops</category>
         
+        <category>Workshops</category>
         
       </item>
     
