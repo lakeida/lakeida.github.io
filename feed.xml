@@ -5,9 +5,49 @@
     <description>I solve data problems and help business stakeholders get the answers they need. A Data Professional with a software engineering background and a passion for data science.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 25 Oct 2020 23:12:39 -0400</pubDate>
-    <lastBuildDate>Sun, 25 Oct 2020 23:12:39 -0400</lastBuildDate>
+    <pubDate>Sun, 15 Nov 2020 21:08:53 -0500</pubDate>
+    <lastBuildDate>Sun, 15 Nov 2020 21:08:53 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Boring with Highlights</title>
+        <description>&lt;p&gt;I recently attended a workshop, &lt;a href=&quot;https://www.practicalreporting.com/practical-dashboards-detailed-course-description&quot;&gt;Practical Dashboards&lt;/a&gt;, it’s based on &lt;a href=&quot;https://www.practicalreporting.com/about-nick-desbarats&quot;&gt;Nick Desbarats’&lt;/a&gt; experiences designing dashboards for over 50 large organizations and teaching dashboard design to thousands of professionals.&lt;/p&gt;
+
+&lt;p&gt;This course was eye-opening! He starts by having you watch a &lt;a href=&quot;https://www.practicalreporting.com/blog/2019/10/23/practical-dashboards-video-now-available&quot;&gt;presentation&lt;/a&gt; on why most dashboards fail.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The cliff notes version:&lt;/strong&gt; &lt;em&gt;because we need to understand what type of “Dashboard” our stakeholders really need.  He goes on to explain his taxonomy of dashboards and what they are best used for.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I was able to quickly discern why some of my dashboards have failed.  And by failed, I mean the usage statistics are low. The stakeholders are just not using them anymore. Thats because what some of my users really needed, was a different type of dashboard. For example, they needed a type of Status Monitoring Dashboard, and what I provided was a Persuasion or Performance Monitoring Dashboard.&lt;/p&gt;
+
+&lt;p&gt;This course is a gold mine! I gained so much useful information.  Starting with first determining the type of dashboard needed, to focusing and restricting the level of information and metrics to the appropriate entity or role.  But there was one golden nugget that I mined and immediately was able to apply to current dashboards.&lt;/p&gt;
+
+&lt;p&gt;During the workshop, Nick talked about a design style he refers to as “Boring with Highlights”.  This means that in designing “Live Data” dashboards that you want to keep the overall palette neutral or subdued, so that when issues need to be flagged, they will stand out and will not have to fight for the users attention from other brightly colored design elements.&lt;/p&gt;
+
+&lt;p&gt;This really resonated with me, because it made me think about my car’s dashboard.  I drive a Ford Flex and the dashboard background is black with white lights for the gauges. If everything is okay, then no other lights or icons are displayed.  This allows me to focus on what is important, driving the car.  But if, say my tire pressure is low, or it’s time for an oil change, thats when a colored icon will appear to grab my attention.  I’ve driven other vehicles that have several different colored icons all over the dashboard that are constantly displayed for you to view while driving.  I am immediately overwhelmed, as I can’t tell whats important; what’s not; Is everything ok? Should I take action?&lt;/p&gt;
+
+&lt;p&gt;I realized that with several of the dashboards I created, I had inadvertently created this same feeling for my stakeholders. Deep right? Told ya. And that’s just one insightful quip I picked up! There are so many more! Nick is dropping science son!&lt;/p&gt;
+
+&lt;p&gt;Seriously head over to his site, &lt;a href=&quot;https://www.practicalreporting.com/&quot;&gt;practicalreporting.com&lt;/a&gt; and check out his blog and videos!&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;small&gt;
+&lt;span&gt;Cover Photo by &lt;a href=&quot;https://unsplash.com/@alexrsu?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Alex Ramon&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/s/photos/dashboard-instrument-panel?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/span&gt;
+&lt;/small&gt;
+&lt;/p&gt;
+</description>
+        <pubDate>Sat, 14 Nov 2020 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/posts/boring-with-highlights/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/boring-with-highlights/</guid>
+        
+        <category>Visualization</category>
+        
+        <category>Dashboards</category>
+        
+        <category>Workshops</category>
+        
+        
+      </item>
     
       <item>
         <title>Jupyter Notebooks</title>
@@ -257,37 +297,6 @@ Jupyter Notebooks were once the realm of Data Scientists. New releases of Azure 
         <category>Hutcheson</category>
         
         <category>Stacked Bar Chart</category>
-        
-        
-        <category>Makeover Monday</category>
-        
-        <category>Power BI</category>
-        
-      </item>
-    
-      <item>
-        <title>Why is participation at it's lowest in the first week of every month</title>
-        <description>&lt;p&gt;I only just discovered Makeover Monday and was planning to start with the new year.  However I found this last dataset of 2019 just too interesting to pass up.  What stood out to me right away was the pattern of a dip in downloads every 3-4 weeks.  A closer look revealed that it coincides with the first week of each month.&lt;/p&gt;
-
-&lt;p&gt;Why?  I can only speak from my own experience, but the beginning of the month can be a very busy time for me, with month end reporting due.  Possibly this is the case for others. Knowing the trend, I am more determined than ever to make sure I make time to participate during the first week of each month.&lt;/p&gt;
-
-&lt;p&gt;Downloads increase by 2x, after the first week.&lt;/p&gt;
-&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://app.powerbi.com/view?r=eyJrIjoiZWU2YjUyNTUtZTMxZi00NDE3LWEyYzctYzExYmI1MzYzMGExIiwidCI6IjFjNjkwYTIxLTBkNjQtNGY2MS1iYWY5LWI4NTNlMzA3NmQ2ZSIsImMiOjN9&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;small&gt;
-&lt;span&gt;Photo by &lt;a href=&quot;https://unsplash.com/@esteejanssens?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Estée Janssens&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/s/photos/calendar?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/span&gt;
-&lt;/small&gt;
-&lt;/p&gt;
-</description>
-        <pubDate>Mon, 30 Dec 2019 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/posts/makeover-monday-2019-week-53/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/makeover-monday-2019-week-53/</guid>
-        
-        <category>Participation</category>
-        
-        <category>Histogram</category>
         
         
         <category>Makeover Monday</category>
