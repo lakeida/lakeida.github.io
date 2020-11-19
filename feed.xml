@@ -5,15 +5,15 @@
     <description>I solve data problems and help business stakeholders get the answers they need. A Data Professional with a software engineering background and a passion for data science.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 15 Nov 2020 21:14:37 -0500</pubDate>
-    <lastBuildDate>Sun, 15 Nov 2020 21:14:37 -0500</lastBuildDate>
+    <pubDate>Wed, 18 Nov 2020 20:44:35 -0500</pubDate>
+    <lastBuildDate>Wed, 18 Nov 2020 20:44:35 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Boring with Highlights</title>
-        <description>&lt;p&gt;I recently attended a workshop, &lt;a href=&quot;https://www.practicalreporting.com/practical-dashboards-detailed-course-description&quot;&gt;Practical Dashboards&lt;/a&gt;, it’s based on &lt;a href=&quot;https://www.practicalreporting.com/about-nick-desbarats&quot;&gt;Nick Desbarats’&lt;/a&gt; experiences designing dashboards for over 50 large organizations and teaching dashboard design to thousands of professionals.&lt;/p&gt;
+        <description>&lt;p&gt;I recently attended a workshop, &lt;a href=&quot;https://www.practicalreporting.com/practical-dashboards-detailed-course-description&quot; target=&quot;_blank&quot;&gt;Practical Dashboards&lt;/a&gt;, it’s based on &lt;a href=&quot;https://www.practicalreporting.com/about-nick-desbarats&quot; target=&quot;_blank&quot;&gt;Nick Desbarats’&lt;/a&gt; experiences designing dashboards for over 50 large organizations and teaching dashboard design to thousands of professionals.&lt;/p&gt;
 
-&lt;p&gt;This course was eye-opening! He starts by having you watch a &lt;a href=&quot;https://www.practicalreporting.com/blog/2019/10/23/practical-dashboards-video-now-available&quot;&gt;presentation&lt;/a&gt; on why most dashboards fail.&lt;/p&gt;
+&lt;p&gt;This course was eye-opening! He starts by having you watch a &lt;a href=&quot;https://www.practicalreporting.com/blog/2019/10/23/practical-dashboards-video-now-available&quot; target=&quot;_blank&quot;&gt;presentation&lt;/a&gt; on why most dashboards fail.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;The cliff notes version:&lt;/strong&gt; &lt;em&gt;because we need to understand what type of “Dashboard” our stakeholders really need.  He goes on to explain his taxonomy of dashboards and what they are best used for.&lt;/em&gt;&lt;/p&gt;
 
@@ -27,7 +27,7 @@
 
 &lt;p&gt;I realized that with several of the dashboards I created, I had inadvertently created this same feeling for my stakeholders. Deep right? Told ya. And that’s just one insightful quip I picked up! There are so many more! Nick is dropping science son!&lt;/p&gt;
 
-&lt;p&gt;Seriously head over to his site, &lt;a href=&quot;https://www.practicalreporting.com/&quot;&gt;practicalreporting.com&lt;/a&gt; and check out his blog and videos!&lt;/p&gt;
+&lt;p&gt;Seriously head over to his site, &lt;a href=&quot;https://www.practicalreporting.com/&quot; target=&quot;_blank&quot;&gt;practicalreporting.com&lt;/a&gt; and check out his blog and videos!&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;
@@ -51,17 +51,17 @@
     
       <item>
         <title>Jupyter Notebooks</title>
-        <description>&lt;p&gt;This past Saturday I attended my first &lt;a href=&quot;https://www.sqlsaturday.com/&quot;&gt;SQLSaturday&lt;/a&gt; event, hosted by the Portland, Oregon chapter.  Which also happened to be their first virtual SQLSaturday.&lt;/p&gt;
+        <description>&lt;p&gt;This past Saturday I attended my first &lt;a href=&quot;https://www.sqlsaturday.com/&quot; target=&quot;_blank&quot;&gt;SQLSaturday&lt;/a&gt; event, hosted by the Portland, Oregon chapter.  Which also happened to be their first virtual SQLSaturday.&lt;/p&gt;
 
 &lt;p&gt;Lots of wonderful presentations, across many topics, but one topic in particular really resonated with me.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.sqlsaturday.com/1000/Sessions/Details/sid/105725&quot;&gt;Notebooks 101 for SQL People&lt;/a&gt; Speaker: &lt;a href=&quot;https://www.sqlsaturday.com/1000/Speakers/Details/name/julie-koesmarno/spid/401&quot;&gt;Julie Koesmarno&lt;/a&gt;.&lt;br /&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.sqlsaturday.com/1000/Sessions/Details/sid/105725&quot; target=&quot;_blank&quot;&gt;Notebooks 101 for SQL People&lt;/a&gt; Speaker: &lt;a href=&quot;https://www.sqlsaturday.com/1000/Speakers/Details/name/julie-koesmarno/spid/401&quot; target=&quot;_blank&quot;&gt;Julie Koesmarno&lt;/a&gt;.&lt;br /&gt;
 Are you a database developer, a DBA or a data analyst? Do you find spending quite a bit of time trying to reproduce analysis or reproduce issues and the troubleshooting techniques? This Notebooks 101 session is for you!&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.sqlsaturday.com/1000/Sessions/Details/sid/107611&quot;&gt;Jupyter Notebooks for DBAs&lt;/a&gt; Speaker: &lt;a href=&quot;https://www.sqlsaturday.com/1000/Speakers/Details/name/rob-sewell/spid/2834&quot;&gt;Rob Sewell&lt;/a&gt;.&lt;br /&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.sqlsaturday.com/1000/Sessions/Details/sid/107611&quot; target=&quot;_blank&quot;&gt;Jupyter Notebooks for DBAs&lt;/a&gt; Speaker: &lt;a href=&quot;https://www.sqlsaturday.com/1000/Speakers/Details/name/rob-sewell/spid/2834&quot; target=&quot;_blank&quot;&gt;Rob Sewell&lt;/a&gt;.&lt;br /&gt;
 Jupyter Notebooks were once the realm of Data Scientists. New releases of Azure Data Studio, Visual Studio Code, and .NET interactive tooling have brought this tooling into the Operational team’s area. The biggest benefit of using Jupyter Notebooks is that you have your documentation, your code &lt;strong&gt;and&lt;/strong&gt; your results in the same source controllable document.&lt;/p&gt;
 
-&lt;p&gt;Currently I use &lt;a href=&quot;https://happenapps.com/&quot;&gt;Quiver&lt;/a&gt; to store my snippets and documentation on troubleshooting or adhoc queries. Prior to this, I was using apps like OneNote and Evernote.  Quiver has the same concept of cell blocks that you can add to the document. You can set the programming language on the code cells and it will provide syntax highlighting.  But what Quiver doesn’t have is actual code execution and a result snapshot.&lt;/p&gt;
+&lt;p&gt;Currently I use &lt;a href=&quot;https://happenapps.com/&quot; target=&quot;_blank&quot;&gt;Quiver&lt;/a&gt; to store my snippets and documentation on troubleshooting or adhoc queries. Prior to this, I was using apps like OneNote and Evernote.  Quiver has the same concept of cell blocks that you can add to the document. You can set the programming language on the code cells and it will provide syntax highlighting.  But what Quiver doesn’t have is actual code execution and a result snapshot.&lt;/p&gt;
 
 &lt;p&gt;These two presentations triggered a lightbulb above my head, with ideas for notebooks flying around it, like birds swarming around a dizzy character’s head in cartoons.  This is not the first time I heard of Jupyter Notebooks, but having been the only SQL person in my company, since I started more than 7yrs ago, I only thought they were good for sharing scripts with the team.  And as a team of 1, didn’t see much point in it.&lt;/p&gt;
 
